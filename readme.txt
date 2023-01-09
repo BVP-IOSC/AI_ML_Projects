@@ -1,2 +1,2 @@
-This repository is for project submissions.
+# This repository is for project submissions.
 
